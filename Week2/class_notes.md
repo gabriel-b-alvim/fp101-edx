@@ -99,4 +99,7 @@ sum :: Num a => [a] -> a
 - The basic are
     + Num - numeric types
     + Eq - equality types
-    + Ord - ordered types 
+    + Ord - ordered types
+
+
+ 
