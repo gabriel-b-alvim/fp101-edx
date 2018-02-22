@@ -1,4 +1,4 @@
-# FP101 - Intro to Functional Programming - Part 1
+# FP101 - Intro to Functional Programming - Week 1
 
 
 ## Haskell
